@@ -9,6 +9,7 @@ namespace Shmup
     {
 
         float moveSpeed = 250;
+        public int playerLives = 3;
         public PlayerSprite(Texture2D newTxr, Vector2 newPos) : base(newTxr, newPos) 
         {
 

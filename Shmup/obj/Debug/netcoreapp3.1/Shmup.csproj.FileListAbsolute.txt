@@ -24,3 +24,5 @@ C:\Users\DaleG\source\repos\Shmup\Shmup\obj\Debug\netcoreapp3.1\Shmup.csproj.Cop
 C:\Users\DaleG\source\repos\Shmup\Shmup\obj\Debug\netcoreapp3.1\Shmup.dll
 C:\Users\DaleG\source\repos\Shmup\Shmup\obj\Debug\netcoreapp3.1\Shmup.pdb
 C:\Users\DaleG\source\repos\Shmup\Shmup\obj\Debug\netcoreapp3.1\Shmup.genruntimeconfig.cache
+C:\Users\DaleG\source\repos\Shmup\Shmup\bin\Debug\netcoreapp3.1\Content\File.xnb
+C:\Users\DaleG\source\repos\Shmup\Shmup\bin\Debug\netcoreapp3.1\Content\UIFont.xnb

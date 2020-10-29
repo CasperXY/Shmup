@@ -23,7 +23,7 @@ namespace Shmup
             if (_keyboardState.IsKeyDown(Keys.A)) spritePos.X -= moveSpeed * (float)gameTime.ElapsedGameTime.TotalSeconds; 
             else if (_keyboardState.IsKeyDown(Keys.D)) spritePos.X += moveSpeed * (float)gameTime.ElapsedGameTime.TotalSeconds;
 
-            spritePos = Vector2.Clamp(spritePos, new Vector2(), new Vector2(screenSize.X -30, screenSize.Y - 30));
+            spritePos = Vector2.Clamp(spritePos, new Vector2(), new Vector2(screenSize.X - spriteTexture.Width, screenSize.Y - spriteTexture.Height));
 
 
         }

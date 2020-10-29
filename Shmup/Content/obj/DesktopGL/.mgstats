@@ -2,3 +2,4 @@ Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Siz
 "C:/Users/DaleG/source/repos/Shmup/Shmup/Content/background.png","C:/Users/DaleG/source/repos/Shmup/Shmup/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",445299,1440085,0.800678
 "C:/Users/DaleG/source/repos/Shmup/Shmup/Content/missile.png","C:/Users/DaleG/source/repos/Shmup/Shmup/Content/bin/DesktopGL/missile.xnb","TextureProcessor","Texture2DContent",22084,32853,2.5587332
 "C:/Users/DaleG/source/repos/Shmup/Shmup/Content/saucer.png","C:/Users/DaleG/source/repos/Shmup/Shmup/Content/bin/DesktopGL/saucer.xnb","TextureProcessor","Texture2DContent",31236,32853,0.108916
+"C:/Users/DaleG/source/repos/Shmup/Shmup/Content/UIFont.spritefont","C:/Users/DaleG/source/repos/Shmup/Shmup/Content/bin/DesktopGL/UIFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.3260599

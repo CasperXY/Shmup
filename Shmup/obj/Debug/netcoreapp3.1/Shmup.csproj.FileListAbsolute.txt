@@ -27,3 +27,9 @@ C:\Users\DaleG\source\repos\Shmup\Shmup\obj\Debug\netcoreapp3.1\Shmup.genruntime
 C:\Users\DaleG\source\repos\Shmup\Shmup\bin\Debug\netcoreapp3.1\Content\File.xnb
 C:\Users\DaleG\source\repos\Shmup\Shmup\bin\Debug\netcoreapp3.1\Content\UIFont.xnb
 C:\Users\DaleG\source\repos\Shmup\Shmup\bin\Debug\netcoreapp3.1\Content\BigFont.xnb
+C:\Users\DaleG\source\repos\Shmup\Shmup\bin\Debug\netcoreapp3.1\Content\Boss Battle!.xnb
+C:\Users\DaleG\source\repos\Shmup\Shmup\bin\Debug\netcoreapp3.1\Content\Boss Battle!!.ogg
+C:\Users\DaleG\source\repos\Shmup\Shmup\bin\Debug\netcoreapp3.1\Content\Boss Battle!!.xnb
+C:\Users\DaleG\source\repos\Shmup\Shmup\bin\Debug\netcoreapp3.1\Content\particle.xnb
+C:\Users\DaleG\source\repos\Shmup\Shmup\bin\Debug\netcoreapp3.1\Content\Explosion.xnb
+C:\Users\DaleG\source\repos\Shmup\Shmup\bin\Debug\netcoreapp3.1\Content\shipExplode.xnb

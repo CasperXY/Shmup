@@ -6,11 +6,21 @@
   <SourceFiles>
     <File>C:/Users/DaleG/source/repos/Shmup/Shmup/Content/background.png</File>
     <File>C:/Users/DaleG/source/repos/Shmup/Shmup/Content/BigFont.spritefont</File>
+    <File>C:/Users/DaleG/source/repos/Shmup/Shmup/Content/Boss Battle!!.mp3</File>
+    <File>C:/Users/DaleG/source/repos/Shmup/Shmup/Content/Boss Battle!.wav</File>
+    <File>C:/Users/DaleG/source/repos/Shmup/Shmup/Content/Explosion.wav</File>
     <File>C:/Users/DaleG/source/repos/Shmup/Shmup/Content/missile.png</File>
+    <File>C:/Users/DaleG/source/repos/Shmup/Shmup/Content/particle.png</File>
     <File>C:/Users/DaleG/source/repos/Shmup/Shmup/Content/saucer.png</File>
+    <File>C:/Users/DaleG/source/repos/Shmup/Shmup/Content/shipExplode.wav</File>
     <File>C:/Users/DaleG/source/repos/Shmup/Shmup/Content/UIFont.spritefont</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

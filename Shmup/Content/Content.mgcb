@@ -32,6 +32,24 @@
 /processorParam:TextureFormat=Compressed
 /build:BigFont.spritefont
 
+#begin Boss Battle!!.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Boss Battle!!.mp3
+
+#begin Boss Battle!.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Boss Battle!.wav
+
+#begin Explosion.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Explosion.wav
+
 #begin missile.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -44,6 +62,18 @@
 /processorParam:TextureFormat=Color
 /build:missile.png
 
+#begin particle.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:particle.png
+
 #begin saucer.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -55,6 +85,12 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:saucer.png
+
+#begin shipExplode.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:shipExplode.wav
 
 #begin UIFont.spritefont
 /importer:FontDescriptionImporter

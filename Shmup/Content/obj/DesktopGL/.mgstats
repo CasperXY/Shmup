@@ -1,6 +1,11 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
 "C:/Users/DaleG/source/repos/Shmup/Shmup/Content/background.png","C:/Users/DaleG/source/repos/Shmup/Shmup/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",445299,1440085,0.800678
-"C:/Users/DaleG/source/repos/Shmup/Shmup/Content/BigFont.spritefont","C:/Users/DaleG/source/repos/Shmup/Shmup/Content/bin/DesktopGL/BigFont.xnb","FontDescriptionProcessor","SpriteFontContent",2015,70690,0.53686
+"C:/Users/DaleG/source/repos/Shmup/Shmup/Content/BigFont.spritefont","C:/Users/DaleG/source/repos/Shmup/Shmup/Content/bin/DesktopGL/BigFont.xnb","FontDescriptionProcessor","SpriteFontContent",2015,267298,1.9105403
+"C:/Users/DaleG/source/repos/Shmup/Shmup/Content/Boss Battle!!.mp3","C:/Users/DaleG/source/repos/Shmup/Shmup/Content/bin/DesktopGL/Boss Battle!!.xnb","SongProcessor","SongContent",2437582,131,5.952292
+"C:/Users/DaleG/source/repos/Shmup/Shmup/Content/Boss Battle!.wav","C:/Users/DaleG/source/repos/Shmup/Shmup/Content/bin/DesktopGL/Boss Battle!.xnb","SoundEffectProcessor","SoundEffectContent",26861468,26861529,2.848276
+"C:/Users/DaleG/source/repos/Shmup/Shmup/Content/Explosion.wav","C:/Users/DaleG/source/repos/Shmup/Shmup/Content/bin/DesktopGL/Explosion.xnb","SoundEffectProcessor","SoundEffectContent",18622,13293,1.7924296
 "C:/Users/DaleG/source/repos/Shmup/Shmup/Content/missile.png","C:/Users/DaleG/source/repos/Shmup/Shmup/Content/bin/DesktopGL/missile.xnb","TextureProcessor","Texture2DContent",22084,32853,2.5587332
+"C:/Users/DaleG/source/repos/Shmup/Shmup/Content/particle.png","C:/Users/DaleG/source/repos/Shmup/Shmup/Content/bin/DesktopGL/particle.xnb","TextureProcessor","Texture2DContent",2405,16469,1.7110037
 "C:/Users/DaleG/source/repos/Shmup/Shmup/Content/saucer.png","C:/Users/DaleG/source/repos/Shmup/Shmup/Content/bin/DesktopGL/saucer.xnb","TextureProcessor","Texture2DContent",31236,32853,0.108916
-"C:/Users/DaleG/source/repos/Shmup/Shmup/Content/UIFont.spritefont","C:/Users/DaleG/source/repos/Shmup/Shmup/Content/bin/DesktopGL/UIFont.xnb","FontDescriptionProcessor","SpriteFontContent",2015,70690,1.7659225
+"C:/Users/DaleG/source/repos/Shmup/Shmup/Content/shipExplode.wav","C:/Users/DaleG/source/repos/Shmup/Shmup/Content/bin/DesktopGL/shipExplode.xnb","SoundEffectProcessor","SoundEffectContent",182206,182121,3.1811235
+"C:/Users/DaleG/source/repos/Shmup/Shmup/Content/UIFont.spritefont","C:/Users/DaleG/source/repos/Shmup/Shmup/Content/bin/DesktopGL/UIFont.xnb","FontDescriptionProcessor","SpriteFontContent",2023,70690,0.1370293
